@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Untitled.png</file>
+        <file>Untitled - Copy.png</file>
+    </qresource>
+</RCC>
